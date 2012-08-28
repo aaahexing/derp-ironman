@@ -1,4 +1,4 @@
 derp-ironman
 ============
 
-For testing, added some comments here~~~~
+Code for some algorithmic problems. 
